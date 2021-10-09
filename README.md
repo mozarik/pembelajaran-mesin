@@ -2,11 +2,11 @@
 
 |Anggota|NIM  |
 |--|--|
-| Muhammad Zein Ihza Fahrozi| 201810730311072  |
-| tulis sendiri iqlima| nim iqlima |
+| Muhammad Zein Ihza Fahrozi| 201810370311072  |
+| Iqlima Chairunnisa| 201810370311079 |
 
 ## Link Google Sheet
-Team-Details : 
+Team-Details : [team-details.xlsx](shorturl.at/cpKPX)
 Sprint-Details : [Sprint-deatils.xlsx](shorturl.at/gBUV8) 
 
 
