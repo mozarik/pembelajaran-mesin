@@ -6,8 +6,8 @@
 | Iqlima Chairunnisa| 201810370311079 |
 
 ## Link Google Sheet
-Team-Details : [team-details.xlsx](shorturl.at/cpKPX)
-Sprint-Details : [Sprint-deatils.xlsx](shorturl.at/gBUV8) 
+Team-Details : [team-details.xlsx](https://shorturl.at/cpKPX)
+Sprint-Details : [Sprint-deatils.xlsx](https://shorturl.at/gBUV8) 
 
 
 ## Sub-directory tugas
